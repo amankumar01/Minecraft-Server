@@ -1,0 +1,6 @@
+main: me.amankumar.chatformat.ChatFormat
+name: ChatFormat
+version: 1.0
+author: AmanKumar
+depend: [RanksManager]
+
