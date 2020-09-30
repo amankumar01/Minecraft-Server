@@ -1,0 +1,7 @@
+main: me.amankumar.ranksmanager.RanksManager
+name: RanksManager
+version: 1.0
+author: AmanKumar
+
+commands:
+  rankset:
