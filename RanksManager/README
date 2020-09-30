@@ -1,3 +1,14 @@
-This is a plugin essentially modeled after an already existing plugin called essentialsx however it does not contain the full 
+This is a plugin essentially modeled after an already existing plugin called essentialsx showever it does not contain the full 
 set of features provided by essentials x only a small portion of it.
 This plugin was completely developed by myself(Aman Kumar) and developed for the reason of implementing my own essentials plugin.
+
+
+PLUGIN.YML INFORMATION
+Documentation for plugin, viable for all versions of Minecraft
+
+RANKS.YML INFORMATION
+storage: ranks:
+            staff:
+               name: uuid
+            players:
+               name: uuid
